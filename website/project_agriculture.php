@@ -63,7 +63,7 @@
                                 <br>
                                 (8) The produced crop can be sold to the former organization at a reasonable price.
                                 <br>
-                                (9) An organic standing center will be set up by the organization at the tahshil level of each district of uttar pradesh in order to save people from standing substances containing toxic, harmful chemicals.
+                                (9) An organic standing center will be set up by the organization at the Taluka level of each district of Maharashtra in order to save people from standing substances containing toxic, harmful chemicals.
                                 </p>
                            
                             </div>

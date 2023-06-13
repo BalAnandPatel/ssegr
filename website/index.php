@@ -208,7 +208,7 @@ $result = json_decode($response);
                             </div>
                             <p class="about-three__text-1">
                             <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                            THE MOTIVE OF SHAILJA SAMEER EDUCATION AND GREEN REVOLUTION (OPC) PVT. LTD. ARE REFORMS THE EDUCATION, AGRICULTURE AND UNEMPLOYMENT FACTOR IN UTTAR PRADESH...</p>
+                            THE MOTIVE OF SHAILJA SAMEER EDUCATION AND GREEN REVOLUTION (OPC) PVT. LTD. ARE REFORMS THE EDUCATION, AGRICULTURE AND UNEMPLOYMENT FACTOR IN MAHARASHTRA...</p>
                          
                             <div class="about-one__btn-and-ceo mt-5">
                                 <div class="about-one__btn-box">

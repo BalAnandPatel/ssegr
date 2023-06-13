@@ -211,10 +211,10 @@ include "../constant.php";
                         </div>
                     </div> -->
                 </div>
-                <marquee>
+                <!-- <marquee>
                 <a href="recruitment.php">
                 <p class="text-danger">SHAILJA SAMEER EDUCATION AND GREEN REVOLUTION (OPC) PVT.LTD. * RECRUITED 53900 VARIOUS POST IN EDUCATION, AGRICUTURE AND HOME INDUSTRY / SMALL SCALE INDUSTRY SECTOR.</p>
                 </a>
-               </marquee>
+               </marquee> -->
             </div>
         </header>

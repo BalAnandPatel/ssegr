@@ -69,14 +69,14 @@ include "include/header.php";
                                     <div class="services-details__img-icon">
                                     <i class='fas fa-graduation-cap'></i>                                    </div>
                                 </div>
-                                <h3 class="services-details__title">Role of Student in education level improvement</h3>
+                                <h3 class="services-details__title">Role Of Student In Education Level Improvement</h3>
                                 <p class="services-details__text-1">
                                 <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 In our country, however civic duties have been included in the education theory.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                However not all students have their complete knowledge, If today's students want to improve the level of education by keeping the spirit of knowledge acquisition and not using their power in strike sabotage and political activities, If we invest in rewoving the short coming of the education field, Then surely the level of our education can improve.</p>
+                                However not all students have their complete knowledge, if today's students want to improve the level of education by keeping the spirit of knowledge acquisition and not using their power in strike sabotage and political activities, if we invest in rewoving the short coming of the education field, then surely the level of our education can improve.</p>
 
-                                <h3 class="services-details__title">Current education level</h3>
+                                <h3 class="services-details__title">Current Education Level</h3>
                                 <p class="services-details__text-1">
                                 <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 The nature of the present education system in our country is based on blank bookish knowledge. Our education level has dropped labor is achievable and expense is achievable.
@@ -85,9 +85,9 @@ include "include/header.php";
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 Along with the same time, here is a tendency in them to stay away from physical labour and become white collar babu.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                Even though the nature of education is multi racial today's students are not getting its full benefits and they becoming paradoxical, This situation is very worrying.</p>
+                                Even though the nature of education is multi racial today's students are not getting its full benefits and they becoming paradoxical, this situation is very worrying.</p>
 
-                                <h3 class="services-details__title">Measures for improvement of students</h3>
+                                <h3 class="services-details__title">Measures For Improvement Of Students</h3>
                                 <p class="services-details__text-1">
                                     <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 	Fundamental changes should be made in the education system as per the need.
@@ -105,7 +105,7 @@ include "include/header.php";
                                     All the defects of the education system should be removed.
                                 </p>
 
-                                <h3 class="services-details__title">Benifits of education reform</h3>
+                                <h3 class="services-details__title">Benifits Of Education Reform</h3>
                                 <p class="services-details__text-1">
                                     <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 	By taking corrective measures in the education live from time to time students will get the benefit that they will develop a sense of self-reliance, they will be able to develop their proper characters, intellectual and social responsibility properly.
@@ -116,7 +116,7 @@ include "include/header.php";
                                 <h3 class="services-details__title">Epilogue</h3>
                                 <p class="services-details__text-1">
                                 <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                 By having a direct relationship with the education sector, Students can play an excellent rate in improving the quality and form of education.
+                                 By having a direct relationship with the education sector, students can play an excellent rate in improving the quality and form of education.
                                 </p>
                             </div>
                       

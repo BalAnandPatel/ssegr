@@ -43,11 +43,11 @@
                                     <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     In the past cottage industries played an important role in the economy of our country. They provided employment to a large number of people.
                                     <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                    Modern age is the age of machine and large scale industries. Yet even in the highly industrialized countries like japan France & Russia, a good proportion of their industries are run in domestic industries.
+                                    Modern age is the age of machine and large scale industries. Yet even in the highly industrialized countries like Japan France & Russia, a good proportion of their industries are run in domestic industries.
                                     <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     In India home industries have a more important part to play than other country. They can help a lot in solving the problem of unemployment and poverty. For more than four months in a year our farmer have nothing to do. Domestic Industries can give them employment during free time.
                                     <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                    Domestic industries can successfully complete with machine made goods, if they run on modern way. periodic exhibition of the goods, manufactured by small industries and development of Co-operative system of great are advantages of their progress.
+                                    Domestic industries can successfully complete with machine made goods, if they run on modern way. periodic exhibition of the goods, manufactured by small industries and development of co-operative system of great are advantages of their progress.
                                     <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     Co-operative system can help in solving the problem of capital, raw material, and marketing then they would easily with stand the competition large scale factory production.</p>
                             </div>

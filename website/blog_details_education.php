@@ -36,7 +36,7 @@
                             </div>
                             <div class="blog-details__content">
                                 
-                                <h3 class="blog-details__title">Education reform</h3>
+                                <h3 class="blog-details__title">Education Reform</h3>
                                 <p class="blog-details__text-2">
                                 <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 In the time of independence, one importace deficiency in the education system was that education was hearly art and humanity based with passage of time, these deficiency has been removed to some extent. Now India has the third number of science graduates in the world.

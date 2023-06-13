@@ -85,7 +85,7 @@ include "include/header.php";
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     In ancient times, forming was done friendly to human health and to the natural enviroment.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                    Due to which the cycle of exochange between organic and Inorganic substances was going on continuosly. As result of which water, air, land and enviroment were not polluted.
+                                    Due to which the cycle of exochange between organic and inorganic substances was going on continuosly. As result of which water, air, land and enviroment were not polluted.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     Agriculture and animal husbandry combined was highly profitable.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
@@ -95,20 +95,20 @@ include "include/header.php";
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     For higher production, more amount of chemical fertilizer and pesticides how to be use in forming.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                    Due to which the marginal formers are incurring exessive cast in the week also getting polluted, Also the food items are becoming poisonous.
+                                    Due to which the marginal formers are incurring exessive cast in the week also getting polluted, also the food items are becoming poisonous.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     To deal with all the above problems of this type, form the last years, the sceme of forming on the principle of sustainable forming has been made by Shailja Sameer Education And Green Revolution (OPC) Pvt Ltd.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     In which organic farming will be operated by the company's agricultural experts and experienced employees engaged in organic farming.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                    The company will be encouraged to adopt organic forming, posters, tableaux, banners, literature, solo drama, puppet performances for the promotion of organic forming at taluka level in each district of the Maharashtra.
+                                    The company will be encouraged to adopt organic forming, posters, tableaux, banners, literature, solo drama, puppet performances for the promotion of organic forming at Taluka level in each district of the Maharashtra.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     The work of public awareness among the formers will be done by the employees.
                                 	<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                     Human health is closely related to organic forming by cultivating this method, the body remains companratively more healthy and comes organic forming does not spoil and comes organic forming also gives more yield than chemical farming. 
                                 </p>
                                 
-                                 <h3 class="services-details__title">Benefits of Organic forming</h3>
+                                 <h3 class="services-details__title">Benefits Of Organic Forming</h3>
                                  <p class="services-details__text-1">
                                  	1. The fertility of land increases.
                                     <br>2. The irrigation internal is increases.

@@ -46,7 +46,7 @@ include "include/header.php";
                         <div class="error-page__inner">
                             <h3 class="error-page__tagline">Recruitment</h3>
                             <p class="error-page__text"><b>SHAILJA SANEER EDUCATION AND GREEN REVOLUTIO (OPC) PVT.LTD.</b></p>
-                            <p class="error-page__text" style="font-size:15px;">* RECRUITED 53900 VARIOUS POST IN EDUCATION, AGRICUTURE AND HOME INDUSTRY / SMALL SCALE INDUSTRY SECTOR.</p>
+                            <p class="error-page__text" style="font-size:15px;">* RECRUITED 74620 VARIOUS POST IN EDUCATION, AGRICUTURE AND HOME INDUSTRY / SMALL SCALE INDUSTRY SECTOR.</p>
                           
                           <!--    <h3 class="error-page__tagline mt-5">If your paymet is faild</h3>
                              <div class="error-page__btn-box">
@@ -190,7 +190,7 @@ include "include/header.php";
         <!--Start Cart Page-->
         <section class="cart-page">
             <div class="container">
-                <marquee scrollamount="5" behavior="alternate"><p class="text text-danger mb-2">Date is extended 25/02/2023 to 25/09/2023 for the notification 53900 various post in Education, Agriculture and small/Home industry sector.</p></marquee>
+                <!-- <marquee scrollamount="5" behavior="alternate"><p class="text text-danger mb-2">Date is extended 25/02/2023 to 25/09/2023 for the notification 53900 various post in Education, Agriculture and small/Home industry sector.</p></marquee> -->
                 <div class="table-responsive">
                     <table class="table cart-table">
                         <thead>

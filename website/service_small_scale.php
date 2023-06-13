@@ -81,22 +81,22 @@ include "include/header.php";
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 Countries like India where unemployment is high and availbility of labour is changing with the changing times according to the needs of the sociaty, depend on the direction and product of small scale industries.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                Among the difficulties faced in the field of small Scale Industries, the selection of right aria, the supply of raw materials, technology and market availability are the main ones.
+                                Among the difficulties faced in the field of small scale Industries, the selection of right aria, the supply of raw materials, technology and market availability are the main ones.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                Objective of the company is based on the investment limit Maharashtra, the company has divided the industries in to the category of micro, cottage. Small scale industries.
+                                Objective of the company is based on the investment limit Maharashtra, the company has divided the industries in to the category of micro, cottage small scale industries.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                Generally by small scale Industries, we mean those Small Scale bussiness, which the company aims to short with the people.</p>
+                                Generally by small scale Industries, we mean those Small scale bussiness, which the company aims to short with the people.</p>
 
-                                <h3 class="services-details__title">Need for Small Scale Industries</h3>
+                                <h3 class="services-details__title">Need For Small Scale Industries</h3>
                                 <p class="services-details__text-1">
                                 <i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 Small scale industry is also called cottage industry this is a field that gives maximum jobs to the people. Small scale industry has a very important contribution in strengthening the economy of our India country.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                The development of any country can be estimated from the status of its industries countries like japan have become sefficient becauce they have a very developed System of Small scale industries.
+                                The development of any country can be estimated from the status of its industries countries like japan have become sefficient becauce they have a very developed system of small scale industries.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 Every citizen is engaged in some production work in oust ancient india, the villages used to be self supporting.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
-                                Rapid machinations resulted in increased unemployment and pollution, As we have left small scale industries, these problems have increased.<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
+                                Rapid machinations resulted in increased unemployment and pollution, as we have left small scale industries, these problems have increased.<br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 Big industries have started and wallowing small scale industries our country is now counted among the developing countries.
                                 <br><i class="fa fa-hand-point-right" style="margin-right:5px; color:grey;"></i>
                                 It is difficult to set up a large industries under preasure of capital small scale industry system can be developed in the country by using more human resources, which can eliminate unemployment as well as give a new way to economic development.
